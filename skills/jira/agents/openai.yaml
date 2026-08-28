@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jira BeeStock"
+  short_description: "Cria e audita issues funcionais do BeeStock"
+  default_prompt: "Use $jira para levantar, validar e gerar esta issue funcional do BeeStock."
+policy:
+  allow_implicit_invocation: false

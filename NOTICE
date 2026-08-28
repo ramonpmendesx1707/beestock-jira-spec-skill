@@ -1,0 +1,7 @@
+This project is a focused adaptation of concepts and mechanics from
+"Matt Pocock's Agent Skills" (https://github.com/mattpocock/skills),
+used under the MIT License.
+
+The BeeStock Jira workflow, business-level specification format, audit rubric,
+summary mode, cross-harness packaging, and maintenance process are adaptations
+created for the Product Owner workflow described in this repository.
